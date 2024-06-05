@@ -109,11 +109,21 @@
   </a>
 </p>
 
-<a> 
-    <a href="https://github.com/hydra-linux"><img alt="hydra's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=hydra-linux&show_icons=true&count_private=true&theme=react&border_color=6485a1&bg_color=0D1117&title_color=6485a1&icon_color=6485a1" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/hydra-linux"><img alt="hydra's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Hydra-linux&langs_count=8&layout=compact&theme=react&border_color=6485a1&bg_color=0D1117&title_color=6485a1&icon_color=6485a1" height="192px" width="49.5%"/></a>
-  <br/>
-</a>
+
+
+
+<div style="display: flex; flex-wrap: wrap;">
+  <a href="https://github.com/hydra-linux" style="flex: 1; margin-right: 5px;">
+    <img alt="hydra's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=hydra-linux&show_icons=true&count_private=true&theme=react&border_color=6485a1&bg_color=0D1117&title_color=6485a1&icon_color=6485a1" height="192px" width="100%"/>
+  </a>
+  <a href="https://github.com/hydra-linux" style="flex: 1; margin-left: 5px;">
+    <img alt="hydra's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Hydra-linux&langs_count=8&layout=compact&theme=react&border_color=6485a1&bg_color=0D1117&title_color=6485a1&icon_color=6485a1" height="192px" width="100%"/>
+  </a>
+</div>
+
+
+
+
 
 
 ![HYdra's Graph](https://github-readme-activity-graph.vercel.app/graph?username=HYdra-linux&custom_title=Al%20Siam's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=6485a1&line=6485a1&point=6485a1&area_color=FFFFFF&title_color=FFFFFF&area=true)
