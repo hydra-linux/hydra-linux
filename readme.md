@@ -105,7 +105,7 @@
 
 <p align="center">
   <a href="https://github.com/hydra-linux">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hydra-linux&theme=radical" alt="Al Siam's GitHub Contribution"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hydra-linux&theme=radical" alt="Hydra's GitHub Contribution"/>
   </a>
 </p>
 
