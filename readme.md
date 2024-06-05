@@ -86,7 +86,7 @@
 <br/>
 
 ## Top Open Source -
-[![hydra linux repo](https://github-readme-stats.vercel.app/api/pin/?username=hydra-linux&repo=hydra-repo&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)]([https://github.com/alsiam/itasks](https://github.com/hydra-linux/hydra-repo))
+[![hydra linux repo](https://github-readme-stats.vercel.app/api/pin/?username=hydra-linux&repo=hydra-repo&border_color=6485a1&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=6485a1)]([https://github.com/alsiam/itasks](https://github.com/hydra-linux/hydra-repo))
 
 
 <p align="left">
