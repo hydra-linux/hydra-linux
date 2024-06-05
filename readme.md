@@ -99,7 +99,7 @@
 
 <p align="center">
   <a href="https://github.com/hydra-linux">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=hydra-linux&theme=radical&border=6485a1&background=0D1117" alt="Saif's GitHub streak"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Hydra-linux&theme=tokyonight" alt="Saif's GitHub streak"/>
   </a>
 </p>
 
