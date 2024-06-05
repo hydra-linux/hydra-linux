@@ -116,4 +116,4 @@
 </a>
 
 
-![HYdra's Graph](https://github-readme-activity-graph.vercel.app/graph?username=HYdra-linux&custom_title=Al%20Siam's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![HYdra's Graph](https://github-readme-activity-graph.vercel.app/graph?username=HYdra-linux&custom_title=Al%20Siam's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=6485a1&line=6485a1&point=6485a1&area_color=FFFFFF&title_color=FFFFFF&area=true)
